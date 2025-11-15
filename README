@@ -1,0 +1,9 @@
+Swirl OS is built on top of its own kernel and designed for x86_64 systems
+
+Bootloader: Limine
+Boot protocol: Limine
+Limine: https://codeberg.org/Limine/limine
+
+!WARNING!
+	This is still in kernel space not user space
+	Might take a while from UEFI to load limine

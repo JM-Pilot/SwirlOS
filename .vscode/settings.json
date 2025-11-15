@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"limine.h": "c",
+		"framebuffer.h": "c"
+	}
+}
